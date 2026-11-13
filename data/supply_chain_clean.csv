@@ -1,0 +1,5 @@
+# After cleaning
+supply.to_csv(
+    'supply_chain_clean.csv',
+    index=False
+)
